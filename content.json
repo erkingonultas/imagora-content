@@ -5,7 +5,7 @@
     {
     "name": "Snowglobe Selfie",
     "category": "Holiday Portraits",
-    "prompt": "A hyper-realistic, festive holiday portrait featuring the individual from the provided reference image, seamlessly integrated inside an ornate glass snowglobe. The snowglobe sits on a polished wooden base engraved with subtle holiday motifs. Soft, weightless snow drifts through the air, illuminated by warm coral-gold Christmas lights that create a radiant, cozy glow. Painterly reflections curve across the glass surface, emphasizing depth, curvature, and atmospheric realism. Surround the subject with delicate bokeh lights, gentle rim-lighting, and subtle refractions that enhance facial structure while preserving likeness. Style the composition with premium, cinematic detail, luminous highlights, and a magical winter ambience reminiscent of high-end holiday illustration and luxury advertising photography. Ultra-sharp focus on the face, impeccable skin texture, and rich color grading in coral, gold, and soft winter whites.",
+    "prompt": "A hyper-realistic, festive holiday portrait featuring the individual from the provided reference image, seamlessly integrated inside an ornate glass snowglobe. The snowglobe sits on a polished wooden base engraved with subtle holiday motifs. Soft, weightless snow drifts through the air, illuminated by warm coral-gold Christmas lights that create a radiant, cozy glow. Warm reflections curve across the glass surface, emphasizing depth, curvature, and atmospheric realism. Surround the subject with delicate bokeh lights, gentle rim-lighting, and subtle refractions that enhance facial structure while preserving likeness. Style the composition with premium, cinematic detail, luminous highlights, and a magical winter ambience reminiscent of high-end holiday illustration and luxury advertising photography. Ultra-sharp focus on the face, impeccable skin texture, and rich color grading in coral, gold, and soft winter whites.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/snowglobe_selfie.jpg",
@@ -139,7 +139,7 @@
   {
     "name": "Witchify Yourself",
     "category": "Fantasy FaceSwaps",
-    "prompt": "A cinematic fantasy portrait of the person from the reference image reimagined as a stylish modern witch, preserving their bone structure and expression with crisp, hyperreal detail. They wear a tailored velvet coat with ornate embroidery and a wide-brim hat casting a dramatic shadow across the eyes. A glowing spellbook in their hands throws warm amber light up onto cheekbones and lips, while orbiting candles and swirling lavender mist wrap around the figure. Floating sigils and shimmering particles drift through a night-sky backdrop, with a rich orange and cobalt color palette, painterly polish, and faceswap-friendly clarity.",
+    "prompt": "A cinematic fantasy portrait of the person from the reference image reimagined as a stylish modern witch, preserving their bone structure and expression with crisp, hyperreal detail. They wear a tailored velvet coat with ornate embroidery and a wide-brim hat casting a dramatic shadow across the eyes. A glowing spellbook in their hands throws warm amber light up onto cheekbones and lips, while orbiting candles and swirling lavender mist wrap around the figure. Floating sigils and shimmering particles drift through a night-sky backdrop, with a rich orange and cobalt color palette, realistic polish, and faceswap-friendly clarity.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/witchify_yourself.jpg",
@@ -611,7 +611,7 @@
   {
     "name": "Christmas Polaroid Memory",
     "category": "Holiday Portraits",
-    "prompt": "Transform the reference photo into a cozy Christmas Polaroid: warm incandescent glow, soft vintage tonality, gentle film grain, and a subtle painterly color shift. Dress the reference person in festive Christmas-themed clothing—such as a patterned holiday sweater, knitted winter scarf, or other warm seasonal attire—while preserving their facial likeness and natural proportions. Add holiday touches like blurred tree lights, garlands, stockings, or candles, while keeping the original composition intact. Include a handwritten date and authentic Polaroid texture to evoke a cherished instant-film holiday memory.",
+    "prompt": "Transform the reference photo into a cozy Christmas Polaroid: warm incandescent glow, soft vintage tonality, gentle film grain, and a subtle warm color shift. Dress the reference person in festive Christmas-themed clothing—such as a patterned holiday sweater, knitted winter scarf, or other warm seasonal attire—while preserving their facial likeness and natural proportions. Add holiday touches like blurred tree lights, garlands, stockings, or candles, while keeping the original composition intact. Include a handwritten date and authentic Polaroid texture to evoke a cherished instant-film holiday memory.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/christmas_polaroid_memory.jpg",
@@ -638,7 +638,7 @@
   {
     "name": "Older You",
     "category": "Alternate Selves",
-    "prompt": "Generate a hyperreal age-progressed portrait of the reference person, preserving bone structure and defining facial markers while adding natural aging details: refined wrinkles, softened jawline, silvered hair, and mature skin texture. Apply warm painterly lighting with coral-and-gold undertones to convey dignity, emotional depth, and a believable future self.",
+    "prompt": "Generate a hyperreal age-progressed portrait of the reference person, preserving bone structure and defining facial markers while adding natural aging details: refined wrinkles, softened jawline, silvered hair, and mature skin texture. Apply intense warm lighting with coral-and-gold undertones to convey dignity, emotional depth, and a believable future self.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/older_you_transformation.jpg",
@@ -647,7 +647,7 @@
   {
     "name": "Snowy Winter Photoshoot",
     "category": "Holiday Portraits",
-    "prompt": "place the reference person in a high-end outdoor winter photoshoot scene, preserving their facial identity while dressing them in fashionable modern winterwear — such as a tailored wool coat, faux-fur collar, knitted scarf, sleek boots, and soft cashmere gloves; capture them in a confident editorial pose like gazing over the shoulder or walking through falling snow; surround them with a serene snowy forest, soft overcast lighting, glistening snowflakes, painterly cool-toned highlights, and shallow depth of field; final image must look Instagram-ready with luxurious winter aesthetics and pristine visual clarity",
+    "prompt": "place the reference person in a high-end outdoor winter photoshoot scene, preserving their facial identity while dressing them in fashionable modern winterwear — such as a tailored wool coat, faux-fur collar, knitted scarf, sleek boots, and soft cashmere gloves; capture them in a confident editorial pose like gazing over the shoulder or walking through falling snow; surround them with a serene snowy forest, soft overcast lighting, glistening snowflakes, cool-toned highlights, and shallow depth of field; final image must look Instagram-ready with luxurious winter aesthetics and pristine visual clarity",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/snowy_winter_photoshoot.jpg",
@@ -656,7 +656,7 @@
   {
     "name": "Cozy Santa Portrait",
     "category": "Holiday Portraits",
-    "prompt": "depict the reference person as a modern Santa in a warm, intimate Christmas living room; maintain facial structure while dressing them in a premium deep-red velvet Santa coat with white fur trim and brushed-gold details; pose them seated comfortably in a soft armchair next to a glowing fireplace, holding a wrapped gift or sipping hot cocoa; decorate the room with garlands, hanging stockings, twinkling lights, and warm lantern glows; use painterly lighting with coral and gold warmth, cinematic bokeh, and crisp festive details for an Instagram-shareworthy holiday portrait",
+    "prompt": "depict the reference person as a modern Santa in a warm, intimate Christmas living room; maintain facial structure while dressing them in a premium deep-red velvet Santa coat with white fur trim and brushed-gold details; pose them seated comfortably in a soft armchair next to a glowing fireplace, holding a wrapped gift or sipping hot cocoa; decorate the room with garlands, hanging stockings, twinkling lights, and warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/cozy_santa_portrait.jpg",
@@ -665,7 +665,7 @@
   {
     "name": "Christmas Morning Unwrapping",
     "category": "Holiday Portraits",
-    "prompt": "show the reference person in front of a beautifully decorated Christmas tree, opening presents in a cozy living room setting; preserve their facial identity, keep their likeness accurate while styling them in comfortable holiday clothing such as a knitted sweater, plaid pajama pants, or soft loungewear; pose them kneeling or sitting beside colorful gift boxes, warm fairy lights casting soft glows across the scene; add pine garlands, ornaments, candles, and subtle morning light through a frosted window; painterly warm tones, gentle depth of field, and Instagram-ready festive atmosphere",
+    "prompt": "show the reference person in front of a beautifully decorated Christmas tree, opening presents in a cozy living room setting; preserve their facial identity, keep their likeness accurate while styling them in comfortable holiday clothing such as a knitted sweater, plaid pajama pants, or soft loungewear; pose them kneeling or sitting beside colorful gift boxes, warm fairy lights casting soft glows across the scene; add pine garlands, ornaments, candles, and subtle morning light through a frosted window; intense warm saturation, gentle depth of field.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/christmas_morning_unwrapping.jpg",
