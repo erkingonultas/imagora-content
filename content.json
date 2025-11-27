@@ -378,7 +378,7 @@
   {
     "name": "Midnight Glow Portrait",
     "category": "Holiday Portraits",
-    "prompt": "An ultra-detailed New Year's Eve portrait of the person from the reference image, standing beneath a sky densely packed with bursting fireworks, depicted with a joyful, celebratory expression that reflects genuine New Year excitement. Their facial structure is outlined by champagne-gold rim light and cool cobalt reflections, rendered with crisp hyperreal skin texture and natural contours. Soft drifting bokeh, atmospheric haze, and faint smoke trails create a painterly festive glow around the subject. Firework colors—coral, magenta, and molten gold—dance in the eyes and along the edges of hair and clothing. Cinematic framing, dynamic contrast, and precise faceswap-optimized detail give the image the energy of a premium holiday campaign visual filled with happiness and celebration.",
+    "prompt": "An ultra-detailed New Year's Eve portrait of the person from the reference image, standing beneath a sky densely packed with bursting fireworks, depicted with a joyful, celebratory expression that reflects genuine New Year excitement. Soft drifting bokeh, atmospheric haze, and faint smoke trails create a warm festive glow around the subject. Firework colors dance in the eyes and along the edges of hair and clothing.  Apply warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details to balance humor with classic Christmas charm.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/midnight_glow_portrait.jpg",
@@ -575,7 +575,7 @@
   {
     "name": "Retro Christmas Chores",
     "category": "Holiday Portraits",
-    "prompt": "Place the reference person inside a 1960s-1970s retro Christmas kitchen, preserving their likeness while styling them in period-accurate holiday clothing. Warm incandescent lighting reflects off chrome appliances and patterned linoleum floors, surrounded by plaid curtains, tinsel garlands, and mid-century festive décor. Capture charming seasonal chores—mixing cookie dough, basting a turkey, wrapping gifts—with soft film texture, nostalgic mid-century color palettes, and painterly vintage warmth.",
+    "prompt": "Place the reference person inside a 1960s-1970s retro Christmas kitchen, preserving their likeness while styling them in period-accurate holiday clothing. Warm incandescent lighting reflects off chrome appliances and patterned linoleum floors, surrounded by plaid curtains, tinsel garlands, and mid-century festive décor. Capture charming seasonal chores—mixing cookie dough, basting a turkey, wrapping gifts. Apply warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details to balance humor with classic Christmas charm.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/retro_christmas_chores.jpg",
@@ -593,7 +593,7 @@
   {
     "name": "Santa's Lap",
     "category": "Holiday Portraits",
-    "prompt": "Depict the reference person sitting on Santa’s lap in a nostalgic mall-photo setting, preserving facial identity, expression, and outfit. Change their outfit to a classic Christmas sweater with cozy knit texture and festive patterns. Surround them with warm glowing Christmas lights, oversized candy canes, cotton-snow props, and a vintage portrait-booth backdrop. Apply soft focus, gentle bokeh, and painterly holiday warmth to balance humor with classic Christmas charm.",
+    "prompt": "Depict the reference person sitting on Santa’s lap in a nostalgic mall-photo setting, preserving facial identity, expression, and outfit. Change their outfit to a classic Christmas sweater with cozy knit texture and festive patterns. Surround them with warm glowing Christmas lights, oversized candy canes, cotton-snow props, and a vintage portrait-booth backdrop. Apply warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details to balance humor with classic Christmas charm.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/santas_lap_throwback.jpg",
@@ -656,7 +656,7 @@
   {
     "name": "Cozy Santa Portrait",
     "category": "Holiday Portraits",
-    "prompt": "depict the reference person as a modern Santa in a warm, intimate Christmas living room; maintain facial structure while dressing them in a premium deep-red velvet Santa coat with white fur trim and brushed-gold details; pose them seated comfortably in a soft armchair next to a glowing fireplace, holding a wrapped gift or sipping hot cocoa; decorate the room with garlands, hanging stockings, twinkling lights, and warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details.",
+    "prompt": "Depict the reference person sitting on Santa’s lap in a nostalgic mall-photo setting, preserving facial identity, expression, and outfit. Change their outfit to a classic Christmas sweater with cozy knit texture and festive patterns. Surround them with warm glowing Christmas lights, oversized candy canes, cotton-snow props, and a vintage portrait-booth backdrop. Apply warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details to balance humor with classic Christmas charm.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/cozy_santa_portrait.jpg",
