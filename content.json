@@ -656,7 +656,7 @@
   {
     "name": "Cozy Santa Portrait",
     "category": "Holiday Portraits",
-    "prompt": "Depict the reference person sitting on Santa’s lap in a nostalgic mall-photo setting, preserving facial identity, expression, and outfit. Change their outfit to a classic Christmas sweater with cozy knit texture and festive patterns. Surround them with warm glowing Christmas lights, oversized candy canes, cotton-snow props, and a vintage portrait-booth backdrop. Apply warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details to balance humor with classic Christmas charm.",
+    "prompt": "depict the reference person as a modern Santa in a warm, intimate Christmas living room; maintain facial structure while dressing them in a premium deep-red velvet Santa coat with white fur trim and brushed-gold details; pose them seated comfortably in a soft armchair next to a glowing fireplace, holding a wrapped gift or sipping hot cocoa; decorate the room with garlands, hanging stockings, twinkling lights, and warm lantern glows; use intense warm saturation, cinematic bokeh, and crisp festive details.",
     "model": "fal-ai/flux-kontext-lora",
     "context_mode": "faceswap",
     "thumbnailUrl": "assets/ads/cozy_santa_portrait.jpg",
